@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-  src="https://raw.githubusercontent.com/chicolucio/credit-card-fraud-detection/master/img/fraud.jpg?token=AFTYBZ65PB25FVOQ6QHUOKDBZIE7G"
+  src="https://raw.githubusercontent.com/chicolucio/credit-card-fraud-detection/master/img/fraud.jpg"
   alt="covid_banner"height="400px" >
 </p>
 
@@ -22,11 +22,14 @@ sendo empregadas neste contexto.
 cartões de crédito e estudaremos diferentes algoritmos que podem ser utilizados
 para classificar uma determinada transação como fraudulenta ou não.**
 
+[Link para download do
+dataset](https://www.dropbox.com/s/zfdjeypay1q98mu/creditcard.csv?dl=0)
+
 [![Abra no
 Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 Caso prefira olhar em sua máquina local, clone o projeto e abra no Jupyter
-Notebook o arquivo `projeto_fraude_cartai_credito.ipynb`
+Notebook o arquivo `projeto_fraude_cartao_credito.ipynb`
 
 **Links:**
 
