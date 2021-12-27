@@ -4,30 +4,29 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/chicolucio/credit-card-fraud-detection/issues)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chicolucio/panorama-covid-mundo/master/images/evolucao_casos_banner.gif" alt="covid_banner"height="400px" >
+  <img
+  src="https://raw.githubusercontent.com/chicolucio/credit-card-fraud-detection/master/img/fraud.jpg?token=AFTYBZ65PB25FVOQ6QHUOKDBZIE7G"
+  alt="covid_banner"height="400px" >
 </p>
 
-## Panorama do COVID-19 no mundo
+## Detectando Fraudes em Cartões de Crédito
 
-A COVID-19 é uma doença infecciosa causada por um recém-descoberto coronavírus.
+Nas últimas décadas, com o aumento constante de operações financeiras
+realizadas, fraudes com cartões de crédito têm se tornado um problema
+considerável. Grande poder computacional é direcionado para tentar detectar
+operações fraudulentas, especialmente com o uso cada mais intensivo de bancos
+online e e-commerce. Diversas estratégias de Data Mining e Machine Learning vêm
+sendo empregadas neste contexto.
 
-Estamos completando quase 2 anos desde o surgimento do vírus COVID-19. As
-medidas para controle pandêmico adotadas por governos em todo mundo afetaram
-significativamente a rotina de todos e é de grande interesse acompanharmos a
-evolução da pandemia para saber seus reais efeitos e avaliar o retorno ao
-convívio normal.
+**Neste trabalho, utilizaremos uma base com dados de transações feitas com
+cartões de crédito e estudaremos diferentes algoritmos que podem ser utilizados
+para classificar uma determinada transação como fraudulenta ou não.**
 
-**Neste trabalho, uma análise exploratória dos dados fornecidos pela Our World in
-Data (OWID) é feita, mostrando o avanço temporal de casos, óbitos e vacinação.**
-Estudos comparativos e busca de correlações são feitos com intuito de melhor
-compreender os dados. Animações como a mostrada acima serão criadas e
-interpretadas.
-
-Para abrir o *notebook* do projeto no Colab:
-[![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicolucio/panorama-covid-mundo/blob/master/projeto_covid_colab.ipynb)
+[![Abra no
+Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 Caso prefira olhar em sua máquina local, clone o projeto e abra no Jupyter
-Notebook o arquivo `projeto_covid.ipynb`
+Notebook o arquivo `projeto_fraude_cartai_credito.ipynb`
 
 **Links:**
 
