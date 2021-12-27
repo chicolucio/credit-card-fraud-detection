@@ -26,7 +26,7 @@ para classificar uma determinada transação como fraudulenta ou não.**
 dataset](https://www.dropbox.com/s/zfdjeypay1q98mu/creditcard.csv?dl=0)
 
 [![Abra no
-Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicolucio/credit-card-fraud-detection/blob/master/projeto_fraude_cartao_credito_colab.ipynb)
 
 Caso prefira olhar em sua máquina local, clone o projeto e abra no Jupyter
 Notebook o arquivo `projeto_fraude_cartao_credito.ipynb`
